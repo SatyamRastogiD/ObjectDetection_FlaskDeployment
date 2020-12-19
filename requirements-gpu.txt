@@ -1,0 +1,8 @@
+tensorflow-gpu==2.1.2
+numpy<=1.19.0
+opencv-python==4.1.1.26
+lxml
+tqdm
+flask
+seaborn
+pillow
